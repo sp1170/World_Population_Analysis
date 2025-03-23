@@ -7,6 +7,5 @@
 ###  - Data cleaning .
 ###  - Statistical analysis (e.g., quartiles, IQR, outlier detection).
 ### - Trend visualization using bar plots, line charts, etc.
-Insights**:
-  - [Summarize key findings, such as population growth rates by region or factors affecting changes].
-- **Tools Used**: Python, Pandas, Matplotlib, Seaborn.
+## Tools Used: 
+### Python, Pandas, Matplotlib, Seaborn.
